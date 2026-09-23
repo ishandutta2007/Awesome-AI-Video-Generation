@@ -56,7 +56,7 @@ The table below lists top commercial AI video platforms sorted by **Estimated Co
 
 Open-weight video generation models have advanced dramatically. Self-hosting via node-based orchestration tools like **ComfyUI** allows creators to run state-of-the-art text-to-video and image-to-video models locally.
 
-Repositories are sorted below by **GitHub Star Count** (descending):
+Repositories are sorted below by **GitHub Stars_Count** (descending):
 
 - **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** [<img src="https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white" alt="Stars"/>](https://github.com/comfyanonymous/ComfyUI/stargazers)  
   🎨 Node-based graphical interface and backend orchestration layer for running Wan, HunyuanVideo, LTX, CogVideoX, and Stable Video Diffusion workflows locally.
@@ -105,7 +105,7 @@ Contributions are welcome! Please follow these simple guidelines:
 
 1. 🍴 Fork the repository.
 2. 📝 Add or edit entries in `README.md` (maintain standard table/list formatting).
-3. ℹ️ Ensure entries include name, official URL, concise description, pricing/star badges, and factual category.
+3. ℹ️ Ensure entries include name, official URL, concise description, pricing/Stars_Badges, and factual category.
 4. 📥 Submit a Pull Request (PR) with a brief summary of additions.
 
 Refer to the curated collection at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for more curated lists.
