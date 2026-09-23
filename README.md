@@ -1,189 +1,138 @@
-# Awesome-AI-Video-Generation
+# 🎬 Awesome AI Video Generation
 
-## Top AI Video Generation Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome AI Video Generation Banner" width="100%">
+</p>
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Video-Generation/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Video-Generation?style=social" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Video-Generation/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Video-Generation?style=social" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+## 🚀 Top AI Video Generation Ecosystem & Directory
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+A comprehensive, curated directory of **SaaS platforms**, **open-source AI video models**, **text-to-video generators**, **image-to-video tools**, and **AI avatar video creators**. Designed for filmmakers, marketers, AI engineers, and content creators looking for generative video models and production workflows.
 
-*Focused on Text-to-Video, Image-to-Video, Avatar & Talking-Head Video, Generative Video Models & Production Workflows*  
-
-**Last updated: September 2026**
-
-
-
-This repository tracks notable **SaaS platforms** and **open-source projects** for **AI Video Generation**. These tools create video from text or images, animate avatars, produce marketing and training clips, and power creative workflows—from short generative clips to longer structured content.
-
-
-
-**Examples** include Runway, Pika, Luma Dream Machine, Kling AI, Synthesia, HeyGen, PixVerse, Hailuo AI, Colossyan, and Elai.io (the category leaders).
-
-
-
-**Open-source emphasis**: Open-weight video models have advanced rapidly. **Wan**, **HunyuanVideo**, **CogVideoX**, **Open-Sora**, **Mochi**, **LTX-Video**, **AnimateDiff**, and **Stable Video Diffusion**—often run via **ComfyUI**—provide strong self-hosted alternatives. This section is heavily expanded.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-
-
-- **[Runway](https://runwayml.com/)**  
-
-  Leading generative video platform (Gen models) for text-to-video, image-to-video, and creative video editing tools used by filmmakers and designers.
-
-
-
-- **[Pika, Luma Dream Machine, Kling AI, PixVerse, Hailuo AI](https://pika.art/)**  
-
-  Consumer and prosumer text-to-video / image-to-video platforms focused on short, high-quality generative clips and motion.
-
-
-
-- **[Synthesia, HeyGen, Colossyan, Elai.io](https://www.synthesia.io/)**  
-
-  AI avatar and talking-head video platforms for training, marketing, and localization—script-to-video with synthetic presenters.
-
-
-
-- **[Other commercial AI video platforms](https://runwayml.com/)**  
-
-  Additional tools spanning generative video, avatar video, and enterprise content production.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[Wan (Wan-Video / Wan2.x)](https://github.com/Wan-Video)**  
-
-  Open and advanced large-scale video generative models (Apache 2.0 line). Strong text-to-video and image-to-video quality; widely used for self-hosted and research deployments.
-
-
-
-- **[HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo)**  
-
-  Tencent’s open systematic framework for large video generation—competitive motion and physics, popular in the open-weight community.
-
-
-
-- **[CogVideo / CogVideoX](https://github.com/THUDM/CogVideo)**  
-
-  Open text- and image-to-video models (CogVideoX series) with permissive licensing options and active research use.
-
-
-
-- **[Open-Sora](https://github.com/hpcaitech/Open-Sora)**  
-
-  Fully open pipeline and weights aimed at reproducing Sora-style video generation for research and community training.
-
-
-
-- **[Mochi, LTX-Video, Allegro & related open models](https://github.com/search?q=Mochi+video+OR+LTX-Video+OR+Allegro+video)**  
-
-  High-quality open video diffusion models, including faster variants and models with improving audio/video capabilities.
-
-
-
-- **[Stable Video Diffusion & AnimateDiff](https://github.com/Stability-AI/generative-models)**  
-
-  Foundational open image-to-video and motion modules that integrate with Stable Diffusion ecosystems and ComfyUI.
-
-
-
-- **[ComfyUI video workflows](https://github.com/comfyanonymous/ComfyUI)**  
-
-  Node-based UI and community workflows for running Wan, HunyuanVideo, LTX, CogVideoX, and other open video models locally.
-
-
-
-- **[Awesome lists & model catalogs](https://github.com/showlab/Awesome-Video-Diffusion)**  
-
-  Curated indexes of video diffusion models, editing tools, and evaluation resources for discovery and comparison.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Quality leaders (open weights)**: Wan 2.x and HunyuanVideo for general text/image-to-video.
-
-- **Research & full pipelines**: Open-Sora for transparent training and data pipelines.
-
-- **Speed / lower VRAM**: LTX-Video and smaller Wan variants for faster iteration on consumer GPUs.
-
-- **Avatar / talking head**: Open face-animation and talking-head projects (separate from full T2V) for presenter-style video.
-
-- **Composable stacks**: ComfyUI + open video model + upscalers/interpolators for production-like pipelines.
-
-- Commercial platforms still lead in ease of use, avatar libraries, brand safety, and managed infrastructure.
-
-
-
-**Frameworks for building custom systems**:  
-
-**Wan**, **HunyuanVideo**, **CogVideoX**, **Open-Sora**, **Mochi**, and **LTX-Video** are the primary open-weight video generation models.  
-
-**ComfyUI** is the de facto local orchestration layer.  
-
-Commercial platforms (Runway, Kling, Luma, Pika, Synthesia, HeyGen, etc.) provide polished UIs, avatar ecosystems, longer-form product workflows, and API reliability.  
-
-Many creators prototype on open models via ComfyUI and use commercial APIs for production delivery or specialized avatar video. Fully open stacks are viable with sufficient GPU resources and careful license review.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Generative video models can produce misleading or harmful content. Respect copyright, likeness rights, and platform policies. Watermarking and provenance (e.g. C2PA) are increasingly expected for synthetic media.
-
-- Open-weight models require significant GPU memory and engineering effort. Licenses vary (Apache 2.0, custom community licenses, geographic restrictions)—verify before commercial use. Commercial platforms handle hosting, safety filters, and support. Choose based on quality needs, cost, and compliance.
-
-
+> **Last updated: September 2026** 📅
 
 ---
 
+## 📌 Table of Contents
 
+- [🏢 SaaS & Hosted Platforms](#-saas--hosted-platforms)
+- [⚡ Open-Source GitHub Projects & Models](#-open-source-github-projects--models)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [📈 Star History](#-star-history)
 
-**Made for filmmakers, marketers, educators, and AI developers building video generation workflows.**  
+---
 
-Let's keep AI video generation open and high-quality—through strong open-weight models and complementary commercial platforms.
+## 🏢 SaaS & Hosted Platforms
+
+> 📊 **Market Insights**: The global AI video generation market size is estimated at **$2.5 Billion+ in 2026** and projected to surpass **$15 Billion by 2032**. The sector is currently **moderately fragmented**: consumer text-to-video and avatars have distinct leaders (Runway, Kling, Synthesia, HeyGen), but rapid open-weight model advancements prevent a single "winner-take-all" monopoly.
+
+The table below lists top commercial AI video platforms sorted by **Estimated Company Size / Valuation** (descending):
+
+| Platform | Description | Estimated Size / Valuation | Starting Price | Free Tier / Trial Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Kling AI](https://klingai.com/)** 🇨🇳 | High-performance generative text-to-video platform by Kuaishou with hyper-realistic motion. | **~$15 Billion+ Valuation** ($500M ARR) | $8.80/month (Standard plan) | 66 free credits daily (resets every 24h, non-cumulative) |
+| **[Runway](https://runwayml.com/)** 🇺🇸 | Industry-leading generative video platform (Gen-3/Gen-4) for filmmakers & creative teams. | **~$5.3 Billion Valuation** ($200M+ ARR) | $12/month (Standard plan, annual) | One-time 125 credits on sign-up (watermarked, non-renewing) |
+| **[Synthesia](https://www.synthesia.io/)** 🇬🇧 | Market leader in AI avatar & talking-head video generation for corporate training & localization. | **~$4.0 Billion Valuation** ($150M ARR) | $18/month (Starter plan, annual) | Up to 10 minutes of video per month (watermarked, no MP4 download) |
+| **[Luma Dream Machine](https://lumalabs.ai/)** 🇺🇸 | High-fidelity text-to-video and image-to-video generative AI model platform. | **~$4.0 Billion Valuation** ($80M ARR) | $30/month (Plus plan) | ~80 credits per day (~1 video generation per day, watermarked) |
+| **[MiniMax / Hailuo AI](https://hailuoai.video/)** 🇨🇳 | High-motion generative video platform producing cinematic realism and dynamic motion. | **~$4.0 Billion Valuation** (Public / HKEX) | $9.99/month (Standard plan) | 200 initial trial credits on sign-up (watermarked) |
+| **[HeyGen](https://www.heygen.com/)** 🇺🇸 | Script-to-video synthetic presenter platform with instant video translation & custom avatars. | **~$500 Million Valuation** ($200M ARR) | $24/month (Creator plan, annual) | 1–3 free videos per month (up to 1 min each, watermarked) |
+| **[Pika](https://pika.art/)** 🇺🇸 | Consumer & prosumer generative video platform focused on short text-to-video clips & animation. | **~$470 Million Valuation** ($85M ARR) | $8/month (Standard plan, annual) | 80 credits per month (480p resolution, watermarked) |
+| **[PixVerse](https://pixverse.ai/)** 🇨🇳 | Generative AI video creation platform for short viral clips and expressive motion models. | **~$100 Million+ Valuation** | $10/month (Standard plan) | 60 free credits daily + initial 90 signup credits (watermarked) |
+| **[Elai.io](https://elai.io/)** 🇺🇸 | AI avatar text-to-video platform for automated training video creation at scale. | **~$30 Million Valuation** | $23/month (Creator plan, annual) | 1 minute of total video render time on signup |
+| **[Colossyan](https://www.colossyan.com/)** 🇬🇧 | AI video presenter platform built specifically for workplace learning & corporate HR teams. | **~$25 Million Valuation** | $19/month (Starter plan, annual) | 20 minutes of video generation per month |
+
+---
+
+## ⚡ Open-Source GitHub Projects & Models
+
+Open-weight video generation models have advanced dramatically. Self-hosting via node-based orchestration tools like **ComfyUI** allows creators to run state-of-the-art text-to-video and image-to-video models locally.
+
+Repositories are sorted below by **GitHub Star Count** (descending):
+
+- **[ComfyUI](https://github.com/comfyanonymous/ComfyUI)** [<img src="https://img.shields.io/github/stars/comfyanonymous/ComfyUI?style=social&color=white" alt="Stars"/>](https://github.com/comfyanonymous/ComfyUI/stargazers)  
+  🎨 Node-based graphical interface and backend orchestration layer for running Wan, HunyuanVideo, LTX, CogVideoX, and Stable Video Diffusion workflows locally.
+
+- **[Open-Sora](https://github.com/hpcaitech/Open-Sora)** [<img src="https://img.shields.io/github/stars/hpcaitech/Open-Sora?style=social&color=white" alt="Stars"/>](https://github.com/hpcaitech/Open-Sora/stargazers)  
+  🚀 Fully open-source initiative providing transparent training pipelines and model weights aimed at democratizing Sora-level video generation.
+
+- **[Wan (Wan2.1 / Wan-Video)](https://github.com/Wan-Video)** [<img src="https://img.shields.io/github/stars/Wan-Video?style=social&color=white" alt="Stars"/>](https://github.com/Wan-Video/stargazers)  
+  🌟 State-of-the-art open-weight video generative model series (Apache 2.0). Exceptionally strong text-to-video & image-to-video fidelity and motion control.
+
+- **[CogVideo / CogVideoX](https://github.com/THUDM/CogVideo)** [<img src="https://img.shields.io/github/stars/THUDM/CogVideo?style=social&color=white" alt="Stars"/>](https://github.com/THUDM/CogVideo/stargazers)  
+  🧠 Open text-to-video and image-to-video model series developed by THUDM featuring permissive licensing and strong research support.
+
+- **[Stable Video Diffusion (generative-models)](https://github.com/Stability-AI/generative-models)** [<img src="https://img.shields.io/github/stars/Stability-AI/generative-models?style=social&color=white" alt="Stars"/>](https://github.com/Stability-AI/generative-models/stargazers)  
+  🔬 Stability AI's foundational open image-to-video latent diffusion models and motion architecture.
+
+- **[HunyuanVideo](https://github.com/Tencent-Hunyuan/HunyuanVideo)** [<img src="https://img.shields.io/github/stars/Tencent-Hunyuan/HunyuanVideo?style=social&color=white" alt="Stars"/>](https://github.com/Tencent-Hunyuan/HunyuanVideo/stargazers)  
+  🐉 Tencent’s open systematic framework for large video generation, known for high motion physics and quality in the open-weight community.
+
+- **[AnimateDiff](https://github.com/guoyww/AnimateDiff)** [<img src="https://img.shields.io/github/stars/guoyww/AnimateDiff?style=social&color=white" alt="Stars"/>](https://github.com/guoyww/AnimateDiff/stargazers)  
+  🎞️ Plug-and-play motion module for animating personalized Stable Diffusion text-to-image models without retraining.
+
+- **[LTX-Video](https://github.com/Lightricks/LTX-Video)** [<img src="https://img.shields.io/github/stars/Lightricks/LTX-Video?style=social&color=white" alt="Stars"/>](https://github.com/Lightricks/LTX-Video/stargazers)  
+  ⚡ Real-time open video generation model by Lightricks optimized for fast inference speed and lower VRAM usage.
+
+- **[Mochi 1](https://github.com/genmoai/models)** [<img src="https://img.shields.io/github/stars/genmoai/models?style=social&color=white" alt="Stars"/>](https://github.com/genmoai/models/stargazers)  
+  🍬 Open video generation model architecture by Genmo focused on high-fidelity motion and prompt adherence.
+
+- **[Awesome Video Diffusion Models](https://github.com/showlab/Awesome-Video-Diffusion)** [<img src="https://img.shields.io/github/stars/showlab/Awesome-Video-Diffusion?style=social&color=white" alt="Stars"/>](https://github.com/showlab/Awesome-Video-Diffusion/stargazers)  
+  📚 Curated research catalog tracking video diffusion papers, benchmarks, and model developments.
+
+---
+
+## 🛠️ Additional Open-Source Options & Production Stacks
+
+- **Quality Leaders (Open Weights)**: Wan 2.1 and HunyuanVideo for general high-fidelity text-to-video.
+- **Research & Full Pipelines**: Open-Sora for end-to-end transparent training data pipelines.
+- **Low VRAM & Speed**: LTX-Video for fast real-time previewing on consumer GPUs.
+- **Node Workflows**: ComfyUI + open video model + Frame Interpolation (RIFE) + Upscalers (RealESRGAN).
+
+---
+
+## 🤝 How to Contribute
+
+Contributions are welcome! Please follow these simple guidelines:
+
+1. 🍴 Fork the repository.
+2. 📝 Add or edit entries in `README.md` (maintain standard table/list formatting).
+3. ℹ️ Ensure entries include name, official URL, concise description, pricing/star badges, and factual category.
+4. 📥 Submit a Pull Request (PR) with a brief summary of additions.
+
+Refer to the curated collection at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for more curated lists.
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this repository helpful for your projects, research, or video production workflows, please consider supporting the project!
+
+- ⭐ **Star** this repository to increase visibility.
+- 🔀 **Fork** and contribute new tools or updates.
+- 📢 **Share** with colleagues and AI developer communities.
+- ☕ **Buy me a coffee**: Support ongoing curation and maintenance via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Thank you for being part of the open AI video generation ecosystem! 🙌
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a **community-curated list** — provided for informational purposes without commercial endorsement.
+- Generative video models can synthesize media; users must adhere to ethical guidelines, copyright laws, likeness rights, and content provenance (e.g. C2PA standards).
+- Open-weight models require dedicated GPU hardware. Check specific licenses (Apache 2.0, MIT, or custom non-commercial licenses) prior to commercial deployment.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-Video-Generation&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-Video-Generation&type=date&legend=top-left)
