@@ -88,6 +88,9 @@ Repositories are sorted below by **GitHub Stars_Count** (descending):
 - **[Awesome Video Diffusion Models](https://github.com/showlab/Awesome-Video-Diffusion)** [<img src="https://img.shields.io/github/stars/showlab/Awesome-Video-Diffusion?style=social&color=white" alt="Stars"/>](https://github.com/showlab/Awesome-Video-Diffusion/stargazers)  
   📚 Curated research catalog tracking video diffusion papers, benchmarks, and model developments.
 
+- **[ShortSmash](https://github.com/hydope/shortsmash)** [<img src="https://img.shields.io/github/stars/hydope/shortsmash?style=social&color=white" alt="Stars"/>](https://github.com/hydope/shortsmash/stargazers)  
+  🎬 Open-source prompt-to-viral-short pipeline: 50-language neural dubbing, CLIP+Gemini vision gate, Veo 3.1/Kling video, 1-click publish to 10 platforms. MIT.
+
 ---
 
 ## 🛠️ Additional Open-Source Options & Production Stacks
