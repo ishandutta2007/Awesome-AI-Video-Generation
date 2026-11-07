@@ -1,5 +1,6 @@
 # 🎬 Awesome AI Video Generation
 
+- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 <p align="center">
   <img src="assets/banner.svg" alt="Awesome AI Video Generation Banner" width="100%">
 </p>
