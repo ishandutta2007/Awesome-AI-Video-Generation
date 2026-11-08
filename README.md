@@ -1,6 +1,5 @@
 # 🎬 Awesome AI Video Generation
 
-- [Ideoy](https://ideoy.ai) - Remake this week's meme videos with one selfie (AI image-to-video, freemium, adults only).
 <p align="center">
   <img src="assets/banner.svg" alt="Awesome AI Video Generation Banner" width="100%">
 </p>
@@ -50,6 +49,7 @@ The table below lists top commercial AI video platforms sorted by **Estimated Co
 | **[PixVerse](https://pixverse.ai/)** 🇨🇳 | Generative AI video creation platform for short viral clips and expressive motion models. | **~$100 Million+ Valuation** | $10/month (Standard plan) | 60 free credits daily + initial 90 signup credits (watermarked) |
 | **[Elai.io](https://elai.io/)** 🇺🇸 | AI avatar text-to-video platform for automated training video creation at scale. | **~$30 Million Valuation** | $23/month (Creator plan, annual) | 1 minute of total video render time on signup |
 | **[Colossyan](https://www.colossyan.com/)** 🇬🇧 | AI video presenter platform built specifically for workplace learning & corporate HR teams. | **~$25 Million Valuation** | $19/month (Starter plan, annual) | 20 minutes of video generation per month |
+| **[Ideoy](https://ideoy.ai)** | AI meme / viral short-video remakes from one selfie (image-to-video, 9:16); freemium. | Early-stage independent / indie | Unlock $3.99 / Remake HD $5.99 | 1 watermarked 480p remake per calendar day (first 5 seconds) |
 
 ---
 
