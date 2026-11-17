@@ -49,6 +49,7 @@ The table below lists top commercial AI video platforms sorted by **Estimated Co
 | **[PixVerse](https://pixverse.ai/)** 🇨🇳 | Generative AI video creation platform for short viral clips and expressive motion models. | **~$100 Million+ Valuation** | $10/month (Standard plan) | 60 free credits daily + initial 90 signup credits (watermarked) |
 | **[Elai.io](https://elai.io/)** 🇺🇸 | AI avatar text-to-video platform for automated training video creation at scale. | **~$30 Million Valuation** | $23/month (Creator plan, annual) | 1 minute of total video render time on signup |
 | **[Colossyan](https://www.colossyan.com/)** 🇬🇧 | AI video presenter platform built specifically for workplace learning & corporate HR teams. | **~$25 Million Valuation** | $19/month (Starter plan, annual) | 20 minutes of video generation per month |
+| **[FacelessShorts](https://facelessshorts.io/)** | Scripted faceless short-form series with narration, captions, and scheduled publishing to Shorts, TikTok, and Reels. | Micro-SaaS (undisclosed) | Paid plans via in-app checkout (no public pricing table) | Free plan carries 0 videos/mo |
 
 ---
 
